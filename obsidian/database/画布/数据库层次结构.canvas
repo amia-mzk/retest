@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"2ce91006720c98d5","x":-480,"y":-652,"width":665,"height":530,"type":"group","label":"互联网/服务器集群"},
+		{"id":"af4e4bf147d5666f","type":"group","x":-515,"y":240,"width":1030,"height":295,"label":"客户端"},
+		{"id":"3150f775177269ea","type":"group","x":-480,"y":-572,"width":400,"height":450,"label":"主机1"},
+		{"id":"286ae7ed24dc9a42","type":"group","x":280,"y":-247,"width":330,"height":340,"label":"连接1"},
+		{"id":"725046cb665552a5","type":"group","x":-455,"y":-372,"width":375,"height":250,"label":"SQL1"},
+		{"id":"19443bb8776e4da3","type":"group","x":300,"y":-107,"width":290,"height":180,"label":"数据库1"},
+		{"id":"d837532567d3dd56","type":"group","x":300,"y":-207,"width":290,"height":65,"label":"数据库2"},
+		{"id":"face30d693293b70","type":"text","text":"主机","x":-495,"y":265,"width":150,"height":60},
+		{"id":"93ff92d87a487ca3","type":"text","text":"端口","x":-272,"y":265,"width":135,"height":50},
+		{"id":"37f4273adbe4ec3b","type":"text","text":"账号，密码","x":-65,"y":260,"width":150,"height":60},
+		{"id":"0d393d221172af85","type":"text","text":"连接名","x":163,"y":265,"width":125,"height":60},
+		{"id":"a9a02818af3b935a","type":"text","text":"数据库","x":370,"y":265,"width":125,"height":60},
+		{"id":"7a94c5cb35357449","type":"text","text":"数据库连接工具","x":-80,"y":465,"width":185,"height":50},
+		{"id":"d827092a3362f7f5","type":"text","text":"SQL2","x":-460,"y":-552,"width":193,"height":80},
+		{"id":"9bb1d235dbc171e3","type":"text","text":"SQL Server","x":-435,"y":-277,"width":140,"height":60},
+		{"id":"a248779808eab262","type":"text","text":"SQLn","x":-240,"y":-552,"width":140,"height":80},
+		{"id":"7b82932988f2662f","type":"text","text":"账户1","x":-210,"y":-352,"width":110,"height":50},
+		{"id":"a00db4313daad5cb","type":"text","text":"账户2","x":-210,"y":-272,"width":110,"height":50},
+		{"id":"30c1d0ff16d821f9","type":"text","text":"主机2","x":-20,"y":-572,"width":185,"height":100},
+		{"id":"5a304ceb8e5b2fb6","type":"text","text":"主机n","x":-20,"y":-402,"width":185,"height":100},
+		{"id":"84c5640418399ccd","type":"text","text":"账户n","x":-210,"y":-192,"width":110,"height":50},
+		{"id":"ee2a9e74f0610c56","type":"text","text":"表1，表2……","x":320,"y":-87,"width":250,"height":60},
+		{"id":"923b403510b7f0e4","type":"text","text":"视图，索引，查询……","x":320,"y":-7,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"61b7b386bee8fe95","fromNode":"9bb1d235dbc171e3","fromSide":"right","toNode":"7b82932988f2662f","toSide":"left"},
+		{"id":"7faa05163b677af2","fromNode":"9bb1d235dbc171e3","fromSide":"right","toNode":"a00db4313daad5cb","toSide":"left"},
+		{"id":"7c55641dbf30f6a0","fromNode":"9bb1d235dbc171e3","fromSide":"right","toNode":"84c5640418399ccd","toSide":"left"},
+		{"id":"a14992aad78a2fe5","fromNode":"7a94c5cb35357449","fromSide":"top","toNode":"face30d693293b70","toSide":"bottom"},
+		{"id":"a33dbd41322960bf","fromNode":"7a94c5cb35357449","fromSide":"top","toNode":"93ff92d87a487ca3","toSide":"bottom"},
+		{"id":"74bbb10c18046e2e","fromNode":"7a94c5cb35357449","fromSide":"top","toNode":"37f4273adbe4ec3b","toSide":"bottom"},
+		{"id":"e564e04df352cc04","fromNode":"7a94c5cb35357449","fromSide":"top","toNode":"0d393d221172af85","toSide":"bottom"},
+		{"id":"8923a823241fa55b","fromNode":"7a94c5cb35357449","fromSide":"top","toNode":"a9a02818af3b935a","toSide":"bottom"},
+		{"id":"07f2a1ac6fe0f8f8","fromNode":"face30d693293b70","fromSide":"top","toNode":"3150f775177269ea","toSide":"left"},
+		{"id":"6223f558697b8bb1","fromNode":"93ff92d87a487ca3","fromSide":"top","toNode":"725046cb665552a5","toSide":"left"},
+		{"id":"3acad7217c6a840a","fromNode":"37f4273adbe4ec3b","fromSide":"top","toNode":"7b82932988f2662f","toSide":"right"},
+		{"id":"bd39b6168e029138","fromNode":"7b82932988f2662f","fromSide":"right","toNode":"286ae7ed24dc9a42","toSide":"left"},
+		{"id":"9f17c4612042adee","fromNode":"0d393d221172af85","fromSide":"top","toNode":"286ae7ed24dc9a42","toSide":"left"},
+		{"id":"99cdfdc85cb2bae9","fromNode":"a9a02818af3b935a","fromSide":"top","toNode":"19443bb8776e4da3","toSide":"bottom"}
+	]
+}
