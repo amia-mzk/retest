@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "bec04a33ac36bf2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2862730159434e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4007cf6e9deab79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "流水线技术/流水线.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "35e894a095b6102b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b39e05ac49e75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "流水线技术/amdahl定律.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b56d17acb97a89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601cd5f13b8552a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "afe7836d6f21ee99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f50a53822db6923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16354abdcde44d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0595ae6262f991d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a0eac86e3b98bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a224cead815a6bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faeac018883b8ef2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "流水线技术/流水线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d796941e4065759e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "流水线技术/流水线.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfb967254ad7343f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f76811a05050583f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "流水线技术/流水线.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a4007cf6e9deab79",
+  "lastOpenFiles": [
+    "流水线技术/流水线.md",
+    "总纲/基础概念.md",
+    "阵列处理机",
+    "多处理机",
+    "互联网络",
+    "指令级并行方法",
+    "向量处理机",
+    "总纲/加速比.md",
+    "流水线技术",
+    "流水线技术/amdahl定律.md",
+    "流水线技术/Tomasulo算法.md",
+    "总纲/计算机体系结构.md",
+    "总纲"
+  ]
+}
