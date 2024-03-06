@@ -162,6 +162,28 @@
   },
   "active": "6d75446b24a2b86a",
   "lastOpenFiles": [
-    "question.md"
+    "GRASP设计模式.md",
+    "图/状态迁移图.md",
+    "图/用例图.md",
+    "图/类图.md",
+    "resource/用例图.png",
+    "图/图.md",
+    "question.md",
+    "resource/状态迁移图.png",
+    "图/交互图.md",
+    "resource/时序图-示例.png",
+    "resource/时序图-元素.png",
+    "resource/时序图-消息.png",
+    "图/程序控制流图.md",
+    "图/程序流程图.md",
+    "resource/程序控制流图.png",
+    "图/结构图.md",
+    "resource/类关系-表格.png",
+    "resource/类关系.png",
+    "图/数据流图.md",
+    "resource/数据流图.png",
+    "resource/事务型.png",
+    "resource",
+    "图"
   ]
 }
